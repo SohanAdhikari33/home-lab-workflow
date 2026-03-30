@@ -32,13 +32,13 @@ To manage and explore user accounts within Microsoft Entra ID for centralized id
 
 \### Users List
 
-!\[Users List](screenshots/users-list.png)
+!\[Users List](screenshots/users-list.jpeg)
 
 
 
 \### User Details
 
-!\[User Details](screenshots/user-details.png)
+!\[User Details](screenshots/user-details.jpeg)
 
 
 

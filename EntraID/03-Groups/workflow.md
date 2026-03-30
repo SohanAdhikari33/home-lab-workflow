@@ -32,13 +32,13 @@ To manage user access and permissions using groups in Microsoft Entra ID.
 
 \### Groups List
 
-!\[Groups List](screenshots/groups-list.png)
+!\[Groups List](screenshots/groups-list.jpeg)
 
 
 
 \### Group Members
 
-!\[Group Members](screenshots/group-members.png)
+!\[Group Members](screenshots/group-members.jpeg)
 
 
 
