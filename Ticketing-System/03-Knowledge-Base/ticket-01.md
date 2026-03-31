@@ -7,10 +7,10 @@ User unable to login to Microsoft 365 account
 User reports being unable to login to Microsoft 365 account. The login fails with 'Incorrect password' error. The user attempted restarting their computer and clearing the browser cache, but the issue persisted.
 
 ## Reporter
-Test user (simulated via Gmail + trick)
+Sai Yamanaka (simulated via Gmail + trick)
 
 ## Assignee
-Sohan Adhikari
+Automatic
 
 ## Workflow
 1. **TO DO** – Ticket created  
