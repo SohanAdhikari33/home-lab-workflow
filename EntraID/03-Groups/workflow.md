@@ -15,7 +15,7 @@ To manage user access and permissions using groups in Microsoft Entra ID.
 ## Screenshots
 
 ### Groups List
-![Groups List](screenshots/groups-list.jpeg)
+![Groups List](screenshots/group-list.jpeg)
 
 ### Group Members
 ![Group Members](screenshots/group-members.jpeg)
